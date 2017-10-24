@@ -1,0 +1,27 @@
+.btn {
+  background-color: #48938F;
+  color: white;
+}
+
+#some-input {
+  width: 40%;
+
+}
+
+body {
+  text-align: center;
+  background-color: #AEAFB2;
+}
+
+p{
+  padding-top: 400px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+h1 {
+  padding-bottom: 300px;
+
+}
